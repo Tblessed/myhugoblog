@@ -1,0 +1,4 @@
+baseURL = "https://tblessed.github.io/myhugoblog/"
+languageCode = "en-us"
+title = "My Hugo Blog"
+theme = "hello-friend"
